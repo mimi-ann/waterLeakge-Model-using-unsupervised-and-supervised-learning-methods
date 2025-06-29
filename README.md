@@ -22,3 +22,8 @@ Water leakage in distribution networks poses a significant challenge to achievin
 
 ## Research Impact 🌍
 The work contributes to sustainable water management research by providing a stepping stone towards an intelligent, data-driven framework for early leak detection, reducing water loss and operational costs. 
+
+## License
+
+This project is licensed under the [Apache 2.0 License](LICENSE).
+
